@@ -1,0 +1,79 @@
+#special {
+	color: white;
+	text-align: left;
+}
+#special2 {
+	text-align: left;
+}
+#special3 {
+    border-left: 10px;
+    margin-left: 10px;
+}
+#site   {
+	border-spacing:5%;
+	background-color: blue;
+	border-radius: 10px;
+    width:100% ;
+    height:200%;
+}
+#secundaria1 {
+	background-color: purple;
+	border-radius: 10px;
+	width:95%;
+	height:16%;
+}
+#secundaria2 {
+	background-color: purple;
+	border-radius: 10px;
+	width:95% ;
+	height:8%;
+}
+#secundaria3 {
+	background-color: purple;
+	border-radius: 10px;
+	width:95% ;
+	height:60%;
+}
+#secundaria4 {
+	background-color: purple;
+	border-radius: 10px;
+	width:95% ;
+	height:7%;
+}		
+#terciaria1 {
+	background-color: green;
+	border-radius: 10px;
+	width:95% ;
+	height:25%;
+}
+#terciaria2 {
+	background-color: green;
+	border-radius: 10px;
+	width:95% ;
+	height:40%	;
+}
+#terciaria3 {
+	background-color: green;
+	border-radius: 10px;
+	width:95% ;
+	height:55%;	
+}
+#terciaria4 {
+	background-color: green;
+	border-radius: 10px;
+	width:95%;
+	height:35%;	
+}
+#terciaria5 {
+	background-color: green;
+	border-radius: 10px;
+	width:95% ;
+	height:40%;	
+}
+#quarta {
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 80%;
+	width:95% ;
+	height:22%;
+}

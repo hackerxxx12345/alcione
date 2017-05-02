@@ -1,0 +1,10 @@
+table {
+  margin:10px;
+  border: solid black; 
+}
+#special {
+      text-align: center;
+}
+#special2{
+	text-align: left;
+}
